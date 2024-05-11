@@ -1,3 +1,3 @@
 # LaTeX files
 
-Contain the LaTeX files to produce `~/practical_notes.pdf`.
+Contains the LaTeX files needed to produce `~/practical_notes.pdf`.
