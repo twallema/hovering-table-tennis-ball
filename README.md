@@ -3,9 +3,12 @@
 ## Hovering a table tennis ball at a fixed height
 
 Dr. Tijs W. Alleman, Daniel Illana, Dr. Gauthier Vanhaelewyn
+
+Correspondence: tijs.alleman@ugent.be 
+
 BIOMATH, Department of Data Analysis and Mathematical Modelling, Ghent University, Coupure Links 653, Ghent, 9000, Belgium
 
-<img src="tex/fig/setup.pdf" alt="setup" width="300"/>
+<img src="./tex/fig/setup.png" alt="setup" width="250"/>
 
 ### Aim
 
@@ -13,4 +16,4 @@ In this practical, we turn control theory into practice by hovering a table tenn
 
 ### Getting started
 
-Building and assembling the setup costs roughly 50 EUR, all relevant information is included in the practical notes.
+All relevant information is included in the practical notes. This repository contains all LaTex, Matlab, and Wolfram Mathematica code needed to replicate the results shown in the practical notes.
