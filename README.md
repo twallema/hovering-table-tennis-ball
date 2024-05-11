@@ -6,9 +6,9 @@ Dr. Tijs W. Alleman, Daniel Illana, Dr. Gauthier Vanhaelewyn
 
 BIOMATH, Department of Data Analysis and Mathematical Modelling, Ghent University, Coupure Links 653, Ghent, 9000, Belgium
 
-<img src="tex/fig/setup.pdf" alt="setup" width="300"/>
+<img src="./tex/fig/setup.pdf" alt="setup" width="300"/>
 
-![setup](tex/fig/setup.pdf)
+![setup](./tex/fig/setup.pdf)
 
 ### Aim
 
