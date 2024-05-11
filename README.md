@@ -8,7 +8,7 @@ Correspondence: tijs.alleman@ugent.be
 
 BIOMATH, Department of Data Analysis and Mathematical Modelling, Ghent University, Coupure Links 653, Ghent, 9000, Belgium
 
-<img src="./tex/fig/setup.png" alt="setup" width="300"/>
+<img src="./tex/fig/setup.png" alt="setup" width="250"/>
 
 ### Aim
 
