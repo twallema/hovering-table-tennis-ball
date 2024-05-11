@@ -1,3 +1,7 @@
+###########################
+## Latex auxillary files ##
+###########################
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -50,3 +54,11 @@
 
 # the output pdf file
 tex/practical_notes.pdf
+
+############################
+## Matlab auxillary files ##
+############################
+
+*.slxc
+*/slprj
+
