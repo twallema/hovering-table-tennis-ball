@@ -16,4 +16,4 @@ In this practical, we turn control theory into practice by hovering a table tenn
 
 ### Getting started
 
-Building and assembling the setup costs roughly 50 EUR, all relevant information is included in the practical notes.
+All relevant information is included in the practical notes. This repository contains all LaTex, Matlab, and Wolfram Mathematica code needed to replicate the results shown in the practical notes.
