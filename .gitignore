@@ -1,5 +1,5 @@
 ###########################
-## Latex auxillary files ##
+## Latex auxiliary files ##
 ###########################
 
 ## Core latex/pdflatex auxiliary files:
@@ -51,14 +51,18 @@
 *.ilg
 *.ind
 
-
 # the output pdf file
 tex/practical_notes.pdf
 
 ############################
-## Matlab auxillary files ##
+## Matlab auxiliary files ##
 ############################
 
 *.slxc
 */slprj
 
+#############################
+## RStudio auxiliary files ##
+#############################
+
+*.DS_Store
